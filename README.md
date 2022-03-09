@@ -1,4 +1,4 @@
 Change log : 
-- added random pornhub vid
+- added random pornhub video
 - added free pornhub premium
 - coming soon onlyfans
