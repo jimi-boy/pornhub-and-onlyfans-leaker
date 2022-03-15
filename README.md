@@ -1,4 +1,18 @@
 Change log : 
-- added random pornhub video
-- added free pornhub premium
-- coming soon onlyfans
+- added Long Jump
+- added Fullbright
+- added Sprint
+- added ClickGui
+- added New Gui
+- added Fly
+- added Speed
+- added Skywars Fly
+- added Step
+- added High Jump
+- added No Fall
+- added 
+- added 
+- added 
+- added  
+- added 
+- deleted Old Gui
